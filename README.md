@@ -1,4 +1,4 @@
-# Hoteal Bookings
+# WhatsApp
 A simple WhatsApp application.
 
 # Preview
