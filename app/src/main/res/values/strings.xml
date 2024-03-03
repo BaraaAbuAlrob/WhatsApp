@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="my_string_value"><b> Don\'t have an Account?</b> <i><u>Create new Account.</u></i></string>
+    <string name="signIn"><b> Already have an Account?</b> <i><u>Login.</u></i></string>
+    <string name="or_login_using_phone"><u>Or Login Using <b>Phone.</b></u></string>
+    <string name="forgetYourPass">Forget your password?</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="status">Status</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="contacts">Contacts</string>
+    <string name="calls_fragment">Calls Fragment</string>
+    <string name="status_fragment">Status Fragment</string>
+    <string name="seen">seen</string>
+    <string name="this_is_the_contact_status">this is the contact status</string>
+    <string name="type_a_message">Type a message...</string>
+</resources>
