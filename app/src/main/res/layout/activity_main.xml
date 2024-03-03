@@ -9,9 +9,9 @@
     android:gravity="center"
     android:padding="20dp" >
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:src="@drawable/whatsapp"
         android:layout_marginBottom="20dp"
         tools:ignore="ContentDescription" />
