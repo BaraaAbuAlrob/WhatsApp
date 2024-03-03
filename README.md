@@ -3,6 +3,8 @@ A simple WhatsApp application.
 
 # Preview
 
+Download APK app : https://www.mediafire.com/file/ihwg6x3w4gg92xr/WhatsApp.apk/file
+
 ![1](https://github.com/BaraaAbuAlrob/WhatsApp/assets/119497086/606f6e79-059b-486c-924f-0c801bebe188)
 ![2](https://github.com/BaraaAbuAlrob/WhatsApp/assets/119497086/a13386d1-a09c-46e4-857e-a08f11af2d5c)
 ![3](https://github.com/BaraaAbuAlrob/WhatsApp/assets/119497086/0e588764-aa16-41f7-9a12-3ea0109a914f)
